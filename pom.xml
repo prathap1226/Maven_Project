@@ -42,7 +42,7 @@
 <distributionManagement>
   	<repository>
   		<id>deploymentRepo</id>
-  		<url>http://ec2-35-154-236-29.ap-south-1.compute.amazonaws.com:8081/repository/prathap1/</url>
+  		<url>http://ec2-35-154-253-203.ap-south-1.compute.amazonaws.com:8081/repository/prathap1/</url>
   		<name>myprod</name>
          </repository>
 
